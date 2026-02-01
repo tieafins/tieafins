@@ -15,7 +15,7 @@ Plataforma com **55+ ferramentas online gratuitas**:
 📱 **QR Code** — Gerar e ler QR codes personalizados
 🌐 **Web** — Encurtador de links, validador de emails, screenshot de sites
 
-> 🔒 Zero rastreamento · 🚫 Sem IA externa · 🗑️ Arquivos deletados após uso · 💚 Open Source
+> 🔒 Zero rastreamento · 🧪 IA em testes · 🗑️ Arquivos deletados após uso · 💚 Open Source
 
 ## 🛠️ Tech Stack
 
