@@ -12,8 +12,11 @@ Plataforma com **55+ ferramentas online gratuitas**:
 📄 **PDF** — Converter, comprimir, juntar, dividir, OCR, proteger, desbloquear e mais
 🖼️ **Imagens** — Converter, redimensionar, comprimir, marca d'água, remover fundo
 🎬 **Vídeos** — Download de YouTube/Instagram/TikTok, converter, extrair áudio
+🤖 **IA** — Análise de documentos, extração inteligente, resumos (em testes)
 📱 **QR Code** — Gerar e ler QR codes personalizados
-🌐 **Web** — Encurtador de links, validador de emails, screenshot de sites
+🌐 **Web** — Leitor de artigos IA, encurtador de links, validador de emails
+🔧 **Utilidades** — CEP, CNPJ, cotação, WhatsApp, CPF, gerador de senhas
+🛡️ **Segurança** — Validação de emails, verificação de vazamentos
 
 > 🔒 Zero rastreamento · 🧪 IA em testes · 🗑️ Arquivos deletados após uso · 💚 Open Source
 
